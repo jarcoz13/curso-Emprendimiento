@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110.66906mm"
+   height="110.22427mm"
+   viewBox="0 0 110.66906 110.22427"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="btn-ini.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-32.820678"
+     inkscape:cy="151.63339"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="869"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.70713,-50.631876)">
+    <g
+       id="circle-int"
+       transform="matrix(0.35277777,0,0,-0.35277777,218.67064,103.64238)"
+       inkscape:label="#g90-3">
+      <path
+         d="m 0,0 c 0,-81.886 -66.38,-148.272 -148.266,-148.272 -81.886,0 -148.259,66.386 -148.259,148.272 0,81.879 66.373,148.266 148.259,148.266 C -66.38,148.266 0,81.879 0,0 Z"
+         style="fill:none;stroke:#006938;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path92-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-66.212106,1383.6347)"
+       id="circle-ext"
+       inkscape:label="#g1239">
+      <g
+         transform="translate(693.06319,3472.1848)"
+         id="g94-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path96-5"
+           style="fill:none;stroke:#006938;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 C -5.032,-1.159 -10.182,-2.094 -15.388,-2.76" />
+      </g>
+      <g
+         transform="translate(654.32779,3468.1447)"
+         id="g98-3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path100-5"
+           style="fill:none;stroke:#006938;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 C -82.401,1.467 -149.332,65.307 -156.491,145.615" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="121.67313"
+       y="115.66412"
+       id="text49"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         x="121.67313"
+         y="115.66412"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.22222137px;font-family:'Museo Sans';-inkscape-font-specification:'Museo Sans';stroke-width:0.26458332;fill:#f2f2f2;">Iniciar</tspan></text>
+  </g>
+</svg>

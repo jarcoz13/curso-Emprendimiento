@@ -1,0 +1,9 @@
+@font-face {
+    font-family: museoSans;
+    src: url(../assets/fonts/MuseoSans_500.otf);
+}
+
+@font-face {
+    font-family: museoSanse;
+    src: url(../assets/fonts/MuseoSans_900.otf);
+}
